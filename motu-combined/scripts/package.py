@@ -22,7 +22,7 @@ FPS = 30
 def frames(path):
     out = subprocess.run(["ffprobe", "-v", "error", "-count_packets", "-select_streams", "v:0", "-show_entries", "stream=nb_read_packets",
                           "-of", "csv=p=0", path], capture_output=True, text=True, check=True).stdout.strip()
-    return int(out)
+    return int(out.split(",")[0])
 
 
 def main():
