@@ -41,8 +41,8 @@ def bokeh(canvas, n, colors, rmin, rmax, ymin, ymax, amin, amax, xmin=0, xmax=W,
         d.ellipse([x - r, y - r, x + r, y + r], fill=tuple(int(v) for v in c))
         # the bright rim a real lens gives an out-of-focus highlight
         d.ellipse([x - r, y - r, x + r, y + r], outline=tuple(int(min(255, v * 1.35)) for v in c), width=max(2, int(r * 0.06)))
-    layer = layer.filter(ImageFilter.GaussianBlur(6))
-    canvas += np.array(layer).astype(np.float32) / 255.0
+    layer = layer.filter(ImageFilter.GaussianBlur(16))
+    canvas += np.array(layer).astype(np.float32) / 255.0 * 0.8
 
 
 def surface(canvas, y0, top_col, front_col, spec=0.0, grain_amt=0.012, wood=False, seed=0):
