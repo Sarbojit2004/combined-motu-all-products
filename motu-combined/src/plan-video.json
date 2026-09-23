@@ -1,0 +1,4522 @@
+{
+ "name": "video",
+ "bpm": 174.0,
+ "beat": 0.3448275862068966,
+ "offset": 0.2047,
+ "shots": [
+  {
+   "kind": "lineup",
+   "assets": [
+    "panel-m4-2-png",
+    "render-ultralite-mk5-6-png",
+    "panel-828-7-png",
+    "render-10pre-newly-added-1-png"
+   ],
+   "b0": 0,
+   "b1": 8,
+   "section": "hook",
+   "move": "craneUp",
+   "trans": "fade",
+   "start": 0.0,
+   "end": 2.9633
+  },
+  {
+   "kind": "lineup",
+   "assets": [
+    "panel-m4-1-png",
+    "panel-ultralite-mk5-8-png",
+    "panel-828-3-png",
+    "panel-16a-12-png"
+   ],
+   "b0": 8,
+   "b1": 16,
+   "section": "hook",
+   "move": "focusOut",
+   "trans": "wipeDiag",
+   "start": 2.9633,
+   "end": 5.7219
+  },
+  {
+   "kind": "lineup",
+   "assets": [
+    "panel-m6-1-png",
+    "panel-ultralite-mk5-9-png",
+    "panel-828-8-png",
+    "render-16a-newly-added-1-png"
+   ],
+   "b0": 16,
+   "b1": 24,
+   "section": "hook",
+   "move": "gimbalL",
+   "trans": "slideUp",
+   "start": 5.7219,
+   "end": 8.4806
+  },
+  {
+   "kind": "lineup",
+   "assets": [
+    "panel-m2-9-png",
+    "render-ultralite-mk5-7-png",
+    "render-828-5-png",
+    "render-16a-newly-added-3-png"
+   ],
+   "b0": 24,
+   "b1": 32,
+   "section": "hook",
+   "move": "gimbalR",
+   "trans": "punchIn",
+   "start": 8.4806,
+   "end": 11.2392
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "bundle-m4-8-jpg"
+   ],
+   "b0": 32,
+   "b1": 36,
+   "section": "m",
+   "move": "zoomIn",
+   "trans": "flash",
+   "start": 11.2392,
+   "end": 12.6185
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "life-m2-3-jpg"
+   ],
+   "b0": 36,
+   "b1": 40,
+   "section": "m",
+   "move": "orbit",
+   "trans": "punchIn",
+   "start": 12.6185,
+   "end": 13.9978
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "life-m2-10-jpg"
+   ],
+   "b0": 40,
+   "b1": 44,
+   "section": "m",
+   "move": "zoomOut",
+   "trans": "fade",
+   "start": 13.9978,
+   "end": 15.3771
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "life-m6-4-jpg"
+   ],
+   "b0": 44,
+   "b1": 48,
+   "section": "m",
+   "move": "gimbalL",
+   "trans": "slideUp",
+   "start": 15.3771,
+   "end": 16.7564
+  },
+  {
+   "kind": "broll",
+   "id": "d04",
+   "file": "broll/d04-music-school.mp4",
+   "label": "828 \u00b7 M2 \u2014 music school",
+   "b0": 48,
+   "b1": 64,
+   "section": "m",
+   "move": "focusOut",
+   "trans": "wipeDiag",
+   "start": 16.7564,
+   "end": 22.2737
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "life-m6-5-jpg"
+   ],
+   "b0": 64,
+   "b1": 68,
+   "section": "m",
+   "move": "gimbalL",
+   "trans": "fade",
+   "start": 22.2737,
+   "end": 23.653
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "life-m6-10-jpg"
+   ],
+   "b0": 68,
+   "b1": 72,
+   "section": "m",
+   "move": "focusOut",
+   "trans": "punchIn",
+   "start": 23.653,
+   "end": 25.0323
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "hero-m2-8-jpg"
+   ],
+   "b0": 72,
+   "b1": 76,
+   "section": "m",
+   "move": "gimbalL",
+   "trans": "punchIn",
+   "start": 25.0323,
+   "end": 26.4116
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "life-m6-2-jpg"
+   ],
+   "b0": 76,
+   "b1": 80,
+   "section": "m",
+   "move": "craneUp",
+   "trans": "fade",
+   "start": 26.4116,
+   "end": 27.7909
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "life-m4-5-jpg"
+   ],
+   "b0": 80,
+   "b1": 84,
+   "section": "m",
+   "move": "orbit",
+   "trans": "slideUp",
+   "start": 27.7909,
+   "end": 29.1702
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "panel-m2-2-png"
+   ],
+   "b0": 84,
+   "b1": 88,
+   "section": "m",
+   "move": "focusOut",
+   "trans": "fade",
+   "start": 29.1702,
+   "end": 30.5495
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "life-m4-6-jpg"
+   ],
+   "b0": 88,
+   "b1": 92,
+   "section": "m",
+   "move": "focusOut",
+   "trans": "pullBack",
+   "start": 30.5495,
+   "end": 31.9288
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "life-m6-3-jpg"
+   ],
+   "b0": 92,
+   "b1": 96,
+   "section": "m",
+   "move": "orbit",
+   "trans": "fade",
+   "start": 31.9288,
+   "end": 33.3081
+  },
+  {
+   "kind": "broll",
+   "id": "d07",
+   "file": "broll/d07-creator-studio.mp4",
+   "label": "828 \u00b7 M4 \u2014 creator studio",
+   "b0": 96,
+   "b1": 112,
+   "section": "m",
+   "move": "gimbalL",
+   "trans": "wipeDiag",
+   "start": 33.3081,
+   "end": 38.8254
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "life-m6-8-jpg"
+   ],
+   "b0": 112,
+   "b1": 116,
+   "section": "m",
+   "move": "orbit",
+   "trans": "wipeDiag",
+   "start": 38.8254,
+   "end": 40.2047
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "life-m4-1-jpg"
+   ],
+   "b0": 116,
+   "b1": 120,
+   "section": "m",
+   "move": "zoomIn",
+   "trans": "fade",
+   "start": 40.2047,
+   "end": 41.584
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "life-m2-5-jpg"
+   ],
+   "b0": 120,
+   "b1": 124,
+   "section": "m",
+   "move": "zoomIn",
+   "trans": "pullBack",
+   "start": 41.584,
+   "end": 42.9633
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "life-m6-9-jpg"
+   ],
+   "b0": 124,
+   "b1": 128,
+   "section": "m",
+   "move": "orbit",
+   "trans": "wipeDiag",
+   "start": 42.9633,
+   "end": 44.3426
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "life-m2-6-jpg"
+   ],
+   "b0": 128,
+   "b1": 132,
+   "section": "m",
+   "move": "gimbalR",
+   "trans": "slideUp",
+   "start": 44.3426,
+   "end": 45.7219
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "life-m2-4-jpg"
+   ],
+   "b0": 132,
+   "b1": 136,
+   "section": "m",
+   "move": "gimbalR",
+   "trans": "punchIn",
+   "start": 45.7219,
+   "end": 47.1013
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "panel-m6-2-png"
+   ],
+   "b0": 136,
+   "b1": 140,
+   "section": "m",
+   "move": "orbit",
+   "trans": "fade",
+   "start": 47.1013,
+   "end": 48.4806
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "life-m4-2-jpg"
+   ],
+   "b0": 140,
+   "b1": 144,
+   "section": "m",
+   "move": "zoomIn",
+   "trans": "fade",
+   "start": 48.4806,
+   "end": 49.8599
+  },
+  {
+   "kind": "broll",
+   "id": "d06",
+   "file": "broll/d06-film-set.mp4",
+   "label": "UltraLite-mk5 \u00b7 M2 \u2014 location sound",
+   "b0": 144,
+   "b1": 160,
+   "section": "m",
+   "move": "orbit",
+   "trans": "wipeDiag",
+   "start": 49.8599,
+   "end": 55.3771
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "life-ultralite-mk5-4-jpg"
+   ],
+   "b0": 160,
+   "b1": 164,
+   "section": "ul",
+   "move": "zoomOut",
+   "trans": "whipLeft",
+   "start": 55.3771,
+   "end": 56.7564
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "diagram-ultralite-mk5-4-png"
+   ],
+   "b0": 164,
+   "b1": 166,
+   "section": "ul",
+   "move": "orbit",
+   "trans": "whipLeft",
+   "start": 56.7564,
+   "end": 57.4461
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "life-ultralite-mk5-5-jpg"
+   ],
+   "b0": 166,
+   "b1": 168,
+   "section": "ul",
+   "move": "zoomOut",
+   "trans": "whipRight",
+   "start": 57.4461,
+   "end": 58.1357
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "life-ultralite-mk5-3-jpg"
+   ],
+   "b0": 168,
+   "b1": 172,
+   "section": "ul",
+   "move": "focusIn",
+   "trans": "flash",
+   "start": 58.1357,
+   "end": 59.515
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "life-ultralite-mk5-2-jpg"
+   ],
+   "b0": 172,
+   "b1": 174,
+   "section": "ul",
+   "move": "zoomOut",
+   "trans": "wipeDiag",
+   "start": 59.515,
+   "end": 60.2047
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "life-ultralite-mk5-1-jpg"
+   ],
+   "b0": 174,
+   "b1": 176,
+   "section": "ul",
+   "move": "craneUp",
+   "trans": "wipeDiag",
+   "start": 60.2047,
+   "end": 60.8944
+  },
+  {
+   "kind": "broll",
+   "id": "b07",
+   "file": "broll/b07-live-duo.mp4",
+   "label": "UltraLite-mk5 \u2014 live duo",
+   "b0": 176,
+   "b1": 192,
+   "section": "ul",
+   "move": "gimbalR",
+   "trans": "flash",
+   "start": 60.8944,
+   "end": 66.4116
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "detail-ultralite-mk5-2-png"
+   ],
+   "b0": 192,
+   "b1": 194,
+   "section": "ul",
+   "move": "focusOut",
+   "trans": "whipLeft",
+   "start": 66.4116,
+   "end": 67.1013
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "hero-ultralite-mk5-11-jpg"
+   ],
+   "b0": 194,
+   "b1": 196,
+   "section": "ul",
+   "move": "focusIn",
+   "trans": "flash",
+   "start": 67.1013,
+   "end": 67.7909
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "diagram-ultralite-mk5-14-jpg"
+   ],
+   "b0": 196,
+   "b1": 200,
+   "section": "ul",
+   "move": "craneUp",
+   "trans": "punchIn",
+   "start": 67.7909,
+   "end": 69.1702
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "diagram-ultralite-mk5-10-jpg"
+   ],
+   "b0": 200,
+   "b1": 202,
+   "section": "ul",
+   "move": "focusIn",
+   "trans": "whipRight",
+   "start": 69.1702,
+   "end": 69.8599
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "hero-ultralite-mk5-12-jpg"
+   ],
+   "b0": 202,
+   "b1": 204,
+   "section": "ul",
+   "move": "gimbalL",
+   "trans": "punchIn",
+   "start": 69.8599,
+   "end": 70.5495
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "render-ultralite-mk5-3-png"
+   ],
+   "b0": 204,
+   "b1": 208,
+   "section": "ul",
+   "move": "zoomIn",
+   "trans": "punchIn",
+   "start": 70.5495,
+   "end": 71.9288
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "diagram-ultralite-mk5-5-png"
+   ],
+   "b0": 208,
+   "b1": 210,
+   "section": "ul",
+   "move": "craneUp",
+   "trans": "flash",
+   "start": 71.9288,
+   "end": 72.6185
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "life-ultralite-mk5-4-jpg"
+   ],
+   "b0": 210,
+   "b1": 212,
+   "section": "ul",
+   "move": "craneUp",
+   "trans": "whipRight",
+   "start": 72.6185,
+   "end": 73.3081
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "life-ultralite-mk5-3-jpg"
+   ],
+   "b0": 212,
+   "b1": 216,
+   "section": "ul",
+   "move": "craneUp",
+   "trans": "punchIn",
+   "start": 73.3081,
+   "end": 74.6875
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "panel-ultralite-mk5-9-png"
+   ],
+   "b0": 216,
+   "b1": 218,
+   "section": "ul",
+   "move": "gimbalR",
+   "trans": "whipLeft",
+   "start": 74.6875,
+   "end": 75.3771
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "diagram-ultralite-mk5-14-jpg"
+   ],
+   "b0": 218,
+   "b1": 220,
+   "section": "ul",
+   "move": "zoomOut",
+   "trans": "whipLeft",
+   "start": 75.3771,
+   "end": 76.0668
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "life-ultralite-mk5-2-jpg"
+   ],
+   "b0": 220,
+   "b1": 224,
+   "section": "ul",
+   "move": "craneUp",
+   "trans": "flash",
+   "start": 76.0668,
+   "end": 77.4461
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "detail-828-7-jpg"
+   ],
+   "b0": 224,
+   "b1": 228,
+   "section": "828",
+   "move": "focusOut",
+   "trans": "whipRight",
+   "start": 77.4461,
+   "end": 78.8254
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "detail-828-9-jpg"
+   ],
+   "b0": 228,
+   "b1": 232,
+   "section": "828",
+   "move": "gimbalR",
+   "trans": "wipeDiag",
+   "start": 78.8254,
+   "end": 80.2047
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "hero-828-13-png"
+   ],
+   "b0": 232,
+   "b1": 236,
+   "section": "828",
+   "move": "focusIn",
+   "trans": "wipeDiag",
+   "start": 80.2047,
+   "end": 81.584
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "diagram-828-14-png"
+   ],
+   "b0": 236,
+   "b1": 240,
+   "section": "828",
+   "move": "craneUp",
+   "trans": "fade",
+   "start": 81.584,
+   "end": 82.9633
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "life-828-18-jpg"
+   ],
+   "b0": 240,
+   "b1": 244,
+   "section": "828",
+   "move": "focusIn",
+   "trans": "slideUp",
+   "start": 82.9633,
+   "end": 84.3426
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "hero-828-6-jpg"
+   ],
+   "b0": 244,
+   "b1": 248,
+   "section": "828",
+   "move": "zoomIn",
+   "trans": "slideUp",
+   "start": 84.3426,
+   "end": 85.7219
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "detail-828-10-jpg"
+   ],
+   "b0": 248,
+   "b1": 252,
+   "section": "828",
+   "move": "focusOut",
+   "trans": "pullBack",
+   "start": 85.7219,
+   "end": 87.1013
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "detail-828-3-jpg"
+   ],
+   "b0": 252,
+   "b1": 256,
+   "section": "828",
+   "move": "gimbalR",
+   "trans": "pullBack",
+   "start": 87.1013,
+   "end": 88.4806
+  },
+  {
+   "kind": "broll",
+   "id": "b04",
+   "file": "broll/b04-guitar-rig.mp4",
+   "label": "828 \u00b7 UltraLite-mk5 \u2014 guitar rig",
+   "b0": 256,
+   "b1": 272,
+   "section": "828",
+   "move": "orbit",
+   "trans": "wipeDiag",
+   "start": 88.4806,
+   "end": 93.9978
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "detail-828-5-jpg"
+   ],
+   "b0": 272,
+   "b1": 276,
+   "section": "828",
+   "move": "zoomIn",
+   "trans": "fade",
+   "start": 93.9978,
+   "end": 95.3771
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "render-828-1-png"
+   ],
+   "b0": 276,
+   "b1": 280,
+   "section": "828",
+   "move": "orbit",
+   "trans": "wipeDiag",
+   "start": 95.3771,
+   "end": 96.7564
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "detail-828-20-jpg"
+   ],
+   "b0": 280,
+   "b1": 284,
+   "section": "828",
+   "move": "focusIn",
+   "trans": "fade",
+   "start": 96.7564,
+   "end": 98.1357
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "detail-828-4-jpg"
+   ],
+   "b0": 284,
+   "b1": 288,
+   "section": "828",
+   "move": "craneUp",
+   "trans": "punchIn",
+   "start": 98.1357,
+   "end": 99.515
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "render-828-6-png"
+   ],
+   "b0": 288,
+   "b1": 292,
+   "section": "828",
+   "move": "focusIn",
+   "trans": "slideUp",
+   "start": 99.515,
+   "end": 100.8944
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "detail-828-22-jpg"
+   ],
+   "b0": 292,
+   "b1": 296,
+   "section": "828",
+   "move": "zoomOut",
+   "trans": "slideUp",
+   "start": 100.8944,
+   "end": 102.2737
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "panel-828-4-png"
+   ],
+   "b0": 296,
+   "b1": 300,
+   "section": "828",
+   "move": "craneUp",
+   "trans": "fade",
+   "start": 102.2737,
+   "end": 103.653
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "life-828-25-jpg"
+   ],
+   "b0": 300,
+   "b1": 304,
+   "section": "828",
+   "move": "gimbalL",
+   "trans": "pullBack",
+   "start": 103.653,
+   "end": 105.0323
+  },
+  {
+   "kind": "dsp",
+   "assets": [
+    "logo-828-9-png"
+   ],
+   "b0": 304,
+   "b1": 308,
+   "section": "cm5",
+   "move": "orbit",
+   "trans": "slideUp",
+   "start": 105.0323,
+   "end": 106.4116
+  },
+  {
+   "kind": "dsp",
+   "assets": [
+    "cm5-828-12-jpg"
+   ],
+   "b0": 308,
+   "b1": 312,
+   "section": "cm5",
+   "move": "gimbalL",
+   "trans": "punchIn",
+   "start": 106.4116,
+   "end": 107.7909
+  },
+  {
+   "kind": "dsp",
+   "assets": [
+    "cm5-828-13-jpg"
+   ],
+   "b0": 312,
+   "b1": 316,
+   "section": "cm5",
+   "move": "orbit",
+   "trans": "fade",
+   "start": 107.7909,
+   "end": 109.1702
+  },
+  {
+   "kind": "dsp",
+   "assets": [
+    "cm5-828-14-jpg"
+   ],
+   "b0": 316,
+   "b1": 320,
+   "section": "cm5",
+   "move": "focusOut",
+   "trans": "fade",
+   "start": 109.1702,
+   "end": 110.5495
+  },
+  {
+   "kind": "dsp",
+   "assets": [
+    "cm5-828-15-jpg"
+   ],
+   "b0": 320,
+   "b1": 324,
+   "section": "cm5",
+   "move": "craneUp",
+   "trans": "pullBack",
+   "start": 110.5495,
+   "end": 111.9288
+  },
+  {
+   "kind": "dsp",
+   "assets": [
+    "cm5-828-15-png"
+   ],
+   "b0": 324,
+   "b1": 328,
+   "section": "cm5",
+   "move": "craneUp",
+   "trans": "fade",
+   "start": 111.9288,
+   "end": 113.3081
+  },
+  {
+   "kind": "dsp",
+   "assets": [
+    "cm5-828-16-jpg"
+   ],
+   "b0": 328,
+   "b1": 332,
+   "section": "cm5",
+   "move": "focusOut",
+   "trans": "fade",
+   "start": 113.3081,
+   "end": 114.6875
+  },
+  {
+   "kind": "dsp",
+   "assets": [
+    "cm5-828-17-jpg"
+   ],
+   "b0": 332,
+   "b1": 336,
+   "section": "cm5",
+   "move": "focusIn",
+   "trans": "slideUp",
+   "start": 114.6875,
+   "end": 116.0668
+  },
+  {
+   "kind": "dsp",
+   "assets": [
+    "cm5-828-2-jpg"
+   ],
+   "b0": 336,
+   "b1": 340,
+   "section": "cm5",
+   "move": "gimbalL",
+   "trans": "fade",
+   "start": 116.0668,
+   "end": 117.4461
+  },
+  {
+   "kind": "dsp",
+   "assets": [
+    "cm5-828-27-jpg"
+   ],
+   "b0": 340,
+   "b1": 344,
+   "section": "cm5",
+   "move": "gimbalL",
+   "trans": "slideUp",
+   "start": 117.4461,
+   "end": 118.8254
+  },
+  {
+   "kind": "dsp",
+   "assets": [
+    "cm5-ultralite-mk5-1-png"
+   ],
+   "b0": 344,
+   "b1": 348,
+   "section": "cm5",
+   "move": "craneUp",
+   "trans": "fade",
+   "start": 118.8254,
+   "end": 120.2047
+  },
+  {
+   "kind": "dsp",
+   "assets": [
+    "cm5-ultralite-mk5-13-jpg"
+   ],
+   "b0": 348,
+   "b1": 352,
+   "section": "cm5",
+   "move": "craneUp",
+   "trans": "slideUp",
+   "start": 120.2047,
+   "end": 121.584
+  },
+  {
+   "kind": "dsp",
+   "assets": [
+    "cm5-ultralite-mk5-6-jpg"
+   ],
+   "b0": 352,
+   "b1": 356,
+   "section": "cm5",
+   "move": "zoomIn",
+   "trans": "slideUp",
+   "start": 121.584,
+   "end": 122.9633
+  },
+  {
+   "kind": "dsp",
+   "assets": [
+    "cm5-ultralite-mk5-7-jpg"
+   ],
+   "b0": 356,
+   "b1": 360,
+   "section": "cm5",
+   "move": "orbit",
+   "trans": "wipeDiag",
+   "start": 122.9633,
+   "end": 124.3426
+  },
+  {
+   "kind": "dsp",
+   "assets": [
+    "cm5-ultralite-mk5-8-jpg"
+   ],
+   "b0": 360,
+   "b1": 364,
+   "section": "cm5",
+   "move": "gimbalL",
+   "trans": "slideUp",
+   "start": 124.3426,
+   "end": 125.7219
+  },
+  {
+   "kind": "dsp",
+   "assets": [
+    "cm5-ultralite-mk5-9-jpg"
+   ],
+   "b0": 364,
+   "b1": 368,
+   "section": "cm5",
+   "move": "orbit",
+   "trans": "punchIn",
+   "start": 125.7219,
+   "end": 127.1013
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "detail-10pre-12-jpg"
+   ],
+   "b0": 368,
+   "b1": 372,
+   "section": "avb",
+   "move": "gimbalL",
+   "trans": "wipeDiag",
+   "start": 127.1013,
+   "end": 128.4806
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "hero-848-newly-added-1-jpg"
+   ],
+   "b0": 372,
+   "b1": 374,
+   "section": "avb",
+   "move": "zoomOut",
+   "trans": "wipeDiag",
+   "start": 128.4806,
+   "end": 129.1702
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "life-16a-18-jpg"
+   ],
+   "b0": 374,
+   "b1": 376,
+   "section": "avb",
+   "move": "zoomOut",
+   "trans": "flash",
+   "start": 129.1702,
+   "end": 129.8599
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "detail-16a-2-jpg"
+   ],
+   "b0": 376,
+   "b1": 380,
+   "section": "avb",
+   "move": "gimbalL",
+   "trans": "punchIn",
+   "start": 129.8599,
+   "end": 131.2392
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "panel-16a-13-png"
+   ],
+   "b0": 380,
+   "b1": 382,
+   "section": "avb",
+   "move": "craneUp",
+   "trans": "punchIn",
+   "start": 131.2392,
+   "end": 131.9288
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "diagram-10pre-12-png"
+   ],
+   "b0": 382,
+   "b1": 384,
+   "section": "avb",
+   "move": "craneUp",
+   "trans": "whipLeft",
+   "start": 131.9288,
+   "end": 132.6185
+  },
+  {
+   "kind": "broll",
+   "id": "b01",
+   "file": "broll/b01-control-room-stack.mp4",
+   "label": "10pre \u00b7 16A \u00b7 828 \u2014 control room",
+   "b0": 384,
+   "b1": 400,
+   "section": "avb",
+   "move": "gimbalR",
+   "trans": "flash",
+   "start": 132.6185,
+   "end": 138.1357
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "detail-10pre-20-jpg"
+   ],
+   "b0": 400,
+   "b1": 402,
+   "section": "avb",
+   "move": "gimbalL",
+   "trans": "whipLeft",
+   "start": 138.1357,
+   "end": 138.8254
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "render-16a-newly-added-2-png"
+   ],
+   "b0": 402,
+   "b1": 404,
+   "section": "avb",
+   "move": "focusIn",
+   "trans": "whipLeft",
+   "start": 138.8254,
+   "end": 139.515
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "panel-16a-4-png"
+   ],
+   "b0": 404,
+   "b1": 408,
+   "section": "avb",
+   "move": "gimbalR",
+   "trans": "whipRight",
+   "start": 139.515,
+   "end": 140.8944
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "detail-848-22-jpg"
+   ],
+   "b0": 408,
+   "b1": 410,
+   "section": "avb",
+   "move": "focusIn",
+   "trans": "whipLeft",
+   "start": 140.8944,
+   "end": 141.584
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "bundle-848-11-jpg"
+   ],
+   "b0": 410,
+   "b1": 412,
+   "section": "avb",
+   "move": "gimbalL",
+   "trans": "flash",
+   "start": 141.584,
+   "end": 142.2737
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "diagram-848-7-png"
+   ],
+   "b0": 412,
+   "b1": 416,
+   "section": "avb",
+   "move": "gimbalR",
+   "trans": "punchIn",
+   "start": 142.2737,
+   "end": 143.653
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "detail-848-20-jpg"
+   ],
+   "b0": 416,
+   "b1": 418,
+   "section": "avb",
+   "move": "zoomIn",
+   "trans": "wipeDiag",
+   "start": 143.653,
+   "end": 144.3426
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "render-10pre-newly-added-3-png"
+   ],
+   "b0": 418,
+   "b1": 420,
+   "section": "avb",
+   "move": "focusIn",
+   "trans": "punchIn",
+   "start": 144.3426,
+   "end": 145.0323
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "hero-10pre-newly-added-jpg"
+   ],
+   "b0": 420,
+   "b1": 424,
+   "section": "avb",
+   "move": "zoomIn",
+   "trans": "punchIn",
+   "start": 145.0323,
+   "end": 146.4116
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "bundle-848-10-jpg"
+   ],
+   "b0": 424,
+   "b1": 426,
+   "section": "avb",
+   "move": "orbit",
+   "trans": "punchIn",
+   "start": 146.4116,
+   "end": 147.1013
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "render-848-newly-added-4-png"
+   ],
+   "b0": 426,
+   "b1": 428,
+   "section": "avb",
+   "move": "gimbalL",
+   "trans": "punchIn",
+   "start": 147.1013,
+   "end": 147.7909
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "detail-848-4-jpg"
+   ],
+   "b0": 428,
+   "b1": 432,
+   "section": "avb",
+   "move": "focusOut",
+   "trans": "whipRight",
+   "start": 147.7909,
+   "end": 149.1702
+  },
+  {
+   "kind": "broll",
+   "id": "d01",
+   "file": "broll/d01-radio-onair.mp4",
+   "label": "848 \u00b7 UltraLite-mk5 \u2014 on air",
+   "b0": 432,
+   "b1": 448,
+   "section": "avb",
+   "move": "gimbalL",
+   "trans": "flash",
+   "start": 149.1702,
+   "end": 154.6875
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "diagram-848-8-png"
+   ],
+   "b0": 448,
+   "b1": 450,
+   "section": "avb",
+   "move": "gimbalL",
+   "trans": "punchIn",
+   "start": 154.6875,
+   "end": 155.3771
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "hero-16a-newly-added-jpg"
+   ],
+   "b0": 450,
+   "b1": 454,
+   "section": "avb",
+   "move": "craneUp",
+   "trans": "punchIn",
+   "start": 155.3771,
+   "end": 156.7564
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "detail-848-23-jpg"
+   ],
+   "b0": 454,
+   "b1": 456,
+   "section": "avb",
+   "move": "zoomIn",
+   "trans": "wipeDiag",
+   "start": 156.7564,
+   "end": 157.4461
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "life-10pre-16-jpg"
+   ],
+   "b0": 456,
+   "b1": 458,
+   "section": "avb",
+   "move": "gimbalL",
+   "trans": "wipeDiag",
+   "start": 157.4461,
+   "end": 158.1357
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "render-10pre-newly-added-2-png"
+   ],
+   "b0": 458,
+   "b1": 462,
+   "section": "avb",
+   "move": "focusOut",
+   "trans": "punchIn",
+   "start": 158.1357,
+   "end": 159.515
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "badge-10pre-28-jpg"
+   ],
+   "b0": 462,
+   "b1": 464,
+   "section": "avb",
+   "move": "orbit",
+   "trans": "flash",
+   "start": 159.515,
+   "end": 160.2047
+  },
+  {
+   "kind": "broll",
+   "id": "d08",
+   "file": "broll/d08-atmos-post.mp4",
+   "label": "848 \u00b7 M6 \u2014 Atmos post",
+   "b0": 464,
+   "b1": 480,
+   "section": "avb",
+   "move": "gimbalL",
+   "trans": "flash",
+   "start": 160.2047,
+   "end": 165.7219
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "detail-16a-21-jpg"
+   ],
+   "b0": 480,
+   "b1": 484,
+   "section": "avb",
+   "move": "zoomOut",
+   "trans": "flash",
+   "start": 165.7219,
+   "end": 167.1013
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "detail-10pre-13-jpg"
+   ],
+   "b0": 484,
+   "b1": 486,
+   "section": "avb",
+   "move": "focusIn",
+   "trans": "punchIn",
+   "start": 167.1013,
+   "end": 167.7909
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "bundle-16a-19-jpg"
+   ],
+   "b0": 486,
+   "b1": 488,
+   "section": "avb",
+   "move": "zoomOut",
+   "trans": "punchIn",
+   "start": 167.7909,
+   "end": 168.4806
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "detail-10pre-29-jpg"
+   ],
+   "b0": 488,
+   "b1": 492,
+   "section": "avb",
+   "move": "orbit",
+   "trans": "punchIn",
+   "start": 168.4806,
+   "end": 169.8599
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "panel-10pre-8-png"
+   ],
+   "b0": 492,
+   "b1": 494,
+   "section": "avb",
+   "move": "zoomIn",
+   "trans": "whipRight",
+   "start": 169.8599,
+   "end": 170.5495
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "life-16a-1-jpg"
+   ],
+   "b0": 494,
+   "b1": 496,
+   "section": "avb",
+   "move": "orbit",
+   "trans": "wipeDiag",
+   "start": 170.5495,
+   "end": 171.2392
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "badge-10pre-26-jpg"
+   ],
+   "b0": 496,
+   "b1": 500,
+   "section": "network",
+   "move": "zoomIn",
+   "trans": "flash",
+   "start": 171.2392,
+   "end": 172.6185
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "bundle-848-5-jpg"
+   ],
+   "b0": 500,
+   "b1": 504,
+   "section": "network",
+   "move": "orbit",
+   "trans": "wipeDiag",
+   "start": 172.6185,
+   "end": 173.9978
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "badge-848-3-png"
+   ],
+   "b0": 504,
+   "b1": 508,
+   "section": "network",
+   "move": "craneUp",
+   "trans": "fade",
+   "start": 173.9978,
+   "end": 175.3771
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "life-848-1-jpg"
+   ],
+   "b0": 508,
+   "b1": 512,
+   "section": "network",
+   "move": "gimbalL",
+   "trans": "wipeDiag",
+   "start": 175.3771,
+   "end": 176.7564
+  },
+  {
+   "kind": "broll",
+   "id": "d03",
+   "file": "broll/d03-worship-livestream.mp4",
+   "label": "16A \u00b7 AVB Switch \u00b7 M4 \u2014 worship livestream",
+   "b0": 512,
+   "b1": 528,
+   "section": "network",
+   "move": "focusOut",
+   "trans": "wipeDiag",
+   "start": 176.7564,
+   "end": 182.2737
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "hero-avb-switch-2-jpg"
+   ],
+   "b0": 528,
+   "b1": 532,
+   "section": "network",
+   "move": "zoomOut",
+   "trans": "fade",
+   "start": 182.2737,
+   "end": 183.653
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "diagram-avb-switch-1-png"
+   ],
+   "b0": 532,
+   "b1": 536,
+   "section": "network",
+   "move": "zoomOut",
+   "trans": "fade",
+   "start": 183.653,
+   "end": 185.0323
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "hero-avb-switch-1-jpg"
+   ],
+   "b0": 536,
+   "b1": 540,
+   "section": "network",
+   "move": "focusIn",
+   "trans": "fade",
+   "start": 185.0323,
+   "end": 186.4116
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "hero-avb-switch-3-jpg"
+   ],
+   "b0": 540,
+   "b1": 544,
+   "section": "network",
+   "move": "zoomIn",
+   "trans": "fade",
+   "start": 186.4116,
+   "end": 187.7909
+  },
+  {
+   "kind": "broll",
+   "id": "b05",
+   "file": "broll/b05-laptop-rig.mp4",
+   "label": "16A \u00b7 828 \u2014 laptop rig",
+   "b0": 544,
+   "b1": 560,
+   "section": "network",
+   "move": "zoomIn",
+   "trans": "wipeDiag",
+   "start": 187.7909,
+   "end": 193.3081
+  },
+  {
+   "kind": "broll",
+   "id": "b10",
+   "file": "broll/b10-network-desk.mp4",
+   "label": "CueMix Pro \u2014 AVB network",
+   "b0": 560,
+   "b1": 576,
+   "section": "cmpro",
+   "move": "gimbalR",
+   "trans": "wipeDiag",
+   "start": 193.3081,
+   "end": 198.8254
+  },
+  {
+   "kind": "dsp",
+   "assets": [
+    "logo-16a-1-png"
+   ],
+   "b0": 576,
+   "b1": 580,
+   "section": "cmpro",
+   "move": "zoomIn",
+   "trans": "punchIn",
+   "start": 198.8254,
+   "end": 200.2047
+  },
+  {
+   "kind": "dsp",
+   "assets": [
+    "cmpro-10pre-1-png"
+   ],
+   "b0": 580,
+   "b1": 584,
+   "section": "cmpro",
+   "move": "focusOut",
+   "trans": "slideUp",
+   "start": 200.2047,
+   "end": 201.584
+  },
+  {
+   "kind": "dsp",
+   "assets": [
+    "cmpro-10pre-10-jpg"
+   ],
+   "b0": 584,
+   "b1": 588,
+   "section": "cmpro",
+   "move": "orbit",
+   "trans": "wipeDiag",
+   "start": 201.584,
+   "end": 202.9633
+  },
+  {
+   "kind": "dsp",
+   "assets": [
+    "cmpro-10pre-14-jpg"
+   ],
+   "b0": 588,
+   "b1": 592,
+   "section": "cmpro",
+   "move": "focusIn",
+   "trans": "slideUp",
+   "start": 202.9633,
+   "end": 204.3426
+  },
+  {
+   "kind": "dsp",
+   "assets": [
+    "cmpro-10pre-14-png"
+   ],
+   "b0": 592,
+   "b1": 596,
+   "section": "cmpro",
+   "move": "zoomOut",
+   "trans": "pullBack",
+   "start": 204.3426,
+   "end": 205.7219
+  },
+  {
+   "kind": "dsp",
+   "assets": [
+    "cmpro-10pre-15-jpg"
+   ],
+   "b0": 596,
+   "b1": 600,
+   "section": "cmpro",
+   "move": "focusOut",
+   "trans": "fade",
+   "start": 205.7219,
+   "end": 207.1013
+  },
+  {
+   "kind": "dsp",
+   "assets": [
+    "cmpro-10pre-21-jpg"
+   ],
+   "b0": 600,
+   "b1": 604,
+   "section": "cmpro",
+   "move": "zoomIn",
+   "trans": "fade",
+   "start": 207.1013,
+   "end": 208.4806
+  },
+  {
+   "kind": "dsp",
+   "assets": [
+    "cmpro-10pre-24-jpg"
+   ],
+   "b0": 604,
+   "b1": 608,
+   "section": "cmpro",
+   "move": "gimbalR",
+   "trans": "slideUp",
+   "start": 208.4806,
+   "end": 209.8599
+  },
+  {
+   "kind": "dsp",
+   "assets": [
+    "cmpro-10pre-27-jpg"
+   ],
+   "b0": 608,
+   "b1": 612,
+   "section": "cmpro",
+   "move": "zoomOut",
+   "trans": "wipeDiag",
+   "start": 209.8599,
+   "end": 211.2392
+  },
+  {
+   "kind": "dsp",
+   "assets": [
+    "cmpro-10pre-3-jpg"
+   ],
+   "b0": 612,
+   "b1": 616,
+   "section": "cmpro",
+   "move": "craneUp",
+   "trans": "pullBack",
+   "start": 211.2392,
+   "end": 212.6185
+  },
+  {
+   "kind": "dsp",
+   "assets": [
+    "cmpro-10pre-4-jpg"
+   ],
+   "b0": 616,
+   "b1": 620,
+   "section": "cmpro",
+   "move": "craneUp",
+   "trans": "wipeDiag",
+   "start": 212.6185,
+   "end": 213.9978
+  },
+  {
+   "kind": "dsp",
+   "assets": [
+    "cmpro-10pre-5-jpg"
+   ],
+   "b0": 620,
+   "b1": 624,
+   "section": "cmpro",
+   "move": "focusOut",
+   "trans": "pullBack",
+   "start": 213.9978,
+   "end": 215.3771
+  },
+  {
+   "kind": "dsp",
+   "assets": [
+    "cmpro-10pre-6-jpg"
+   ],
+   "b0": 624,
+   "b1": 628,
+   "section": "cmpro",
+   "move": "focusOut",
+   "trans": "fade",
+   "start": 215.3771,
+   "end": 216.7564
+  },
+  {
+   "kind": "dsp",
+   "assets": [
+    "cmpro-10pre-7-jpg"
+   ],
+   "b0": 628,
+   "b1": 632,
+   "section": "cmpro",
+   "move": "orbit",
+   "trans": "wipeDiag",
+   "start": 216.7564,
+   "end": 218.1357
+  },
+  {
+   "kind": "dsp",
+   "assets": [
+    "cmpro-10pre-8-jpg"
+   ],
+   "b0": 632,
+   "b1": 636,
+   "section": "cmpro",
+   "move": "orbit",
+   "trans": "fade",
+   "start": 218.1357,
+   "end": 219.515
+  },
+  {
+   "kind": "dsp",
+   "assets": [
+    "cmpro-10pre-9-jpg"
+   ],
+   "b0": 636,
+   "b1": 640,
+   "section": "cmpro",
+   "move": "craneUp",
+   "trans": "fade",
+   "start": 219.515,
+   "end": 220.8944
+  },
+  {
+   "kind": "dsp",
+   "assets": [
+    "cmpro-16a-10-jpg"
+   ],
+   "b0": 640,
+   "b1": 644,
+   "section": "cmpro",
+   "move": "gimbalL",
+   "trans": "pullBack",
+   "start": 220.8944,
+   "end": 222.2737
+  },
+  {
+   "kind": "dsp",
+   "assets": [
+    "cmpro-16a-11-jpg"
+   ],
+   "b0": 644,
+   "b1": 648,
+   "section": "cmpro",
+   "move": "orbit",
+   "trans": "fade",
+   "start": 222.2737,
+   "end": 223.653
+  },
+  {
+   "kind": "dsp",
+   "assets": [
+    "cmpro-16a-12-jpg"
+   ],
+   "b0": 648,
+   "b1": 652,
+   "section": "cmpro",
+   "move": "gimbalR",
+   "trans": "punchIn",
+   "start": 223.653,
+   "end": 225.0323
+  },
+  {
+   "kind": "dsp",
+   "assets": [
+    "cmpro-16a-13-jpg"
+   ],
+   "b0": 652,
+   "b1": 656,
+   "section": "cmpro",
+   "move": "focusOut",
+   "trans": "wipeDiag",
+   "start": 225.0323,
+   "end": 226.4116
+  },
+  {
+   "kind": "dsp",
+   "assets": [
+    "cmpro-16a-14-jpg"
+   ],
+   "b0": 656,
+   "b1": 660,
+   "section": "cmpro",
+   "move": "craneUp",
+   "trans": "slideUp",
+   "start": 226.4116,
+   "end": 227.7909
+  },
+  {
+   "kind": "dsp",
+   "assets": [
+    "cmpro-16a-15-jpg"
+   ],
+   "b0": 660,
+   "b1": 664,
+   "section": "cmpro",
+   "move": "zoomOut",
+   "trans": "pullBack",
+   "start": 227.7909,
+   "end": 229.1702
+  },
+  {
+   "kind": "dsp",
+   "assets": [
+    "cmpro-16a-16-jpg",
+    "cmpro-16a-17-jpg"
+   ],
+   "b0": 664,
+   "b1": 668,
+   "section": "cmpro",
+   "move": "gimbalR",
+   "trans": "punchIn",
+   "start": 229.1702,
+   "end": 230.5495
+  },
+  {
+   "kind": "dsp",
+   "assets": [
+    "cmpro-16a-26-jpg",
+    "cmpro-16a-6-jpg"
+   ],
+   "b0": 668,
+   "b1": 672,
+   "section": "cmpro",
+   "move": "craneUp",
+   "trans": "pullBack",
+   "start": 230.5495,
+   "end": 231.9288
+  },
+  {
+   "kind": "dsp",
+   "assets": [
+    "cmpro-16a-7-jpg",
+    "cmpro-16a-7-png"
+   ],
+   "b0": 672,
+   "b1": 676,
+   "section": "cmpro",
+   "move": "zoomOut",
+   "trans": "fade",
+   "start": 231.9288,
+   "end": 233.3081
+  },
+  {
+   "kind": "dsp",
+   "assets": [
+    "cmpro-16a-9-jpg",
+    "cmpro-848-24-jpg"
+   ],
+   "b0": 676,
+   "b1": 680,
+   "section": "cmpro",
+   "move": "craneUp",
+   "trans": "wipeDiag",
+   "start": 233.3081,
+   "end": 234.6875
+  },
+  {
+   "kind": "dsp",
+   "assets": [
+    "cmpro-848-25-jpg",
+    "cmpro-848-26-jpg"
+   ],
+   "b0": 680,
+   "b1": 684,
+   "section": "cmpro",
+   "move": "craneUp",
+   "trans": "fade",
+   "start": 234.6875,
+   "end": 236.0668
+  },
+  {
+   "kind": "dsp",
+   "assets": [
+    "cmpro-848-3-jpg",
+    "cmpro-848-9-png"
+   ],
+   "b0": 684,
+   "b1": 688,
+   "section": "cmpro",
+   "move": "orbit",
+   "trans": "punchIn",
+   "start": 236.0668,
+   "end": 237.4461
+  },
+  {
+   "kind": "lineup",
+   "assets": [
+    "panel-m2-2-png",
+    "render-ultralite-mk5-7-png",
+    "render-828-2-png",
+    "render-848-newly-added-1-png"
+   ],
+   "b0": 688,
+   "b1": 696,
+   "section": "family1",
+   "move": "zoomIn",
+   "trans": "whipRight",
+   "start": 237.4461,
+   "end": 240.2047
+  },
+  {
+   "kind": "lineup",
+   "assets": [
+    "panel-m2-9-png",
+    "render-ultralite-mk5-3-png",
+    "panel-828-8-png",
+    "render-10pre-newly-added-png"
+   ],
+   "b0": 696,
+   "b1": 704,
+   "section": "family1",
+   "move": "gimbalL",
+   "trans": "slideUp",
+   "start": 240.2047,
+   "end": 242.9633
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "life-m2-1-jpg"
+   ],
+   "b0": 704,
+   "b1": 708,
+   "section": "deploy",
+   "move": "focusIn",
+   "trans": "slideUp",
+   "start": 242.9633,
+   "end": 244.3426
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "life-828-28-jpg"
+   ],
+   "b0": 708,
+   "b1": 712,
+   "section": "deploy",
+   "move": "focusOut",
+   "trans": "pullBack",
+   "start": 244.3426,
+   "end": 245.7219
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "hero-16a-25-jpg"
+   ],
+   "b0": 712,
+   "b1": 716,
+   "section": "deploy",
+   "move": "zoomIn",
+   "trans": "pullBack",
+   "start": 245.7219,
+   "end": 247.1013
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "hero-10pre-1-jpg"
+   ],
+   "b0": 716,
+   "b1": 720,
+   "section": "deploy",
+   "move": "zoomOut",
+   "trans": "fade",
+   "start": 247.1013,
+   "end": 248.4806
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "life-828-30-jpg"
+   ],
+   "b0": 720,
+   "b1": 724,
+   "section": "deploy",
+   "move": "gimbalR",
+   "trans": "pullBack",
+   "start": 248.4806,
+   "end": 249.8599
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "life-m6-7-jpg"
+   ],
+   "b0": 724,
+   "b1": 728,
+   "section": "deploy",
+   "move": "focusOut",
+   "trans": "punchIn",
+   "start": 249.8599,
+   "end": 251.2392
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "life-m4-7-jpg"
+   ],
+   "b0": 728,
+   "b1": 732,
+   "section": "deploy",
+   "move": "zoomOut",
+   "trans": "fade",
+   "start": 251.2392,
+   "end": 252.6185
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "hero-848-17-jpg"
+   ],
+   "b0": 732,
+   "b1": 736,
+   "section": "deploy",
+   "move": "focusIn",
+   "trans": "wipeDiag",
+   "start": 252.6185,
+   "end": 253.9978
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "hero-m4-4-jpg"
+   ],
+   "b0": 736,
+   "b1": 740,
+   "section": "deploy",
+   "move": "zoomIn",
+   "trans": "fade",
+   "start": 253.9978,
+   "end": 255.3771
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "life-828-21-jpg"
+   ],
+   "b0": 740,
+   "b1": 744,
+   "section": "deploy",
+   "move": "craneUp",
+   "trans": "fade",
+   "start": 255.3771,
+   "end": 256.7564
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "life-m6-6-jpg"
+   ],
+   "b0": 744,
+   "b1": 748,
+   "section": "deploy",
+   "move": "zoomOut",
+   "trans": "punchIn",
+   "start": 256.7564,
+   "end": 258.1357
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "life-m4-5-jpg"
+   ],
+   "b0": 748,
+   "b1": 752,
+   "section": "deploy",
+   "move": "craneUp",
+   "trans": "fade",
+   "start": 258.1357,
+   "end": 259.515
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "life-m4-6-jpg"
+   ],
+   "b0": 752,
+   "b1": 756,
+   "section": "deploy",
+   "move": "gimbalR",
+   "trans": "pullBack",
+   "start": 259.515,
+   "end": 260.8944
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "hero-avb-switch-2-jpg"
+   ],
+   "b0": 756,
+   "b1": 760,
+   "section": "deploy",
+   "move": "orbit",
+   "trans": "fade",
+   "start": 260.8944,
+   "end": 262.2737
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "life-m4-7-jpg"
+   ],
+   "b0": 760,
+   "b1": 764,
+   "section": "deploy",
+   "move": "zoomOut",
+   "trans": "slideUp",
+   "start": 262.2737,
+   "end": 263.653
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "life-16a-1-jpg"
+   ],
+   "b0": 764,
+   "b1": 768,
+   "section": "deploy",
+   "move": "gimbalR",
+   "trans": "fade",
+   "start": 263.653,
+   "end": 265.0323
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "panel-848-12-png"
+   ],
+   "b0": 768,
+   "b1": 770,
+   "section": "finale",
+   "move": "orbit",
+   "trans": "wipeDiag",
+   "start": 265.0323,
+   "end": 265.7219
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "diagram-10pre-11-png"
+   ],
+   "b0": 770,
+   "b1": 772,
+   "section": "finale",
+   "move": "gimbalL",
+   "trans": "flash",
+   "start": 265.7219,
+   "end": 266.4116
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "badge-828-31-jpg"
+   ],
+   "b0": 772,
+   "b1": 776,
+   "section": "finale",
+   "move": "gimbalR",
+   "trans": "whipRight",
+   "start": 266.4116,
+   "end": 267.7909
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "panel-10pre-4-png"
+   ],
+   "b0": 776,
+   "b1": 778,
+   "section": "finale",
+   "move": "zoomIn",
+   "trans": "punchIn",
+   "start": 267.7909,
+   "end": 268.4806
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "panel-16a-11-png"
+   ],
+   "b0": 778,
+   "b1": 780,
+   "section": "finale",
+   "move": "zoomOut",
+   "trans": "punchIn",
+   "start": 268.4806,
+   "end": 269.1702
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "render-848-newly-added-2-png"
+   ],
+   "b0": 780,
+   "b1": 784,
+   "section": "finale",
+   "move": "zoomOut",
+   "trans": "wipeDiag",
+   "start": 269.1702,
+   "end": 270.5495
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "detail-16a-24-jpg"
+   ],
+   "b0": 784,
+   "b1": 786,
+   "section": "finale",
+   "move": "focusIn",
+   "trans": "flash",
+   "start": 270.5495,
+   "end": 271.2392
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "render-16a-newly-added-4-png"
+   ],
+   "b0": 786,
+   "b1": 788,
+   "section": "finale",
+   "move": "gimbalL",
+   "trans": "whipRight",
+   "start": 271.2392,
+   "end": 271.9288
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "detail-10pre-11-jpg"
+   ],
+   "b0": 788,
+   "b1": 792,
+   "section": "finale",
+   "move": "gimbalL",
+   "trans": "punchIn",
+   "start": 271.9288,
+   "end": 273.3081
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "bundle-828-12-png"
+   ],
+   "b0": 792,
+   "b1": 794,
+   "section": "finale",
+   "move": "focusIn",
+   "trans": "wipeDiag",
+   "start": 273.3081,
+   "end": 273.9978
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "render-848-newly-added-3-png"
+   ],
+   "b0": 794,
+   "b1": 796,
+   "section": "finale",
+   "move": "focusIn",
+   "trans": "whipLeft",
+   "start": 273.9978,
+   "end": 274.6875
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "diagram-16a-5-jpg"
+   ],
+   "b0": 796,
+   "b1": 800,
+   "section": "finale",
+   "move": "craneUp",
+   "trans": "whipLeft",
+   "start": 274.6875,
+   "end": 276.0668
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "detail-848-16-jpg"
+   ],
+   "b0": 800,
+   "b1": 802,
+   "section": "finale",
+   "move": "focusOut",
+   "trans": "wipeDiag",
+   "start": 276.0668,
+   "end": 276.7564
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "panel-16a-8-png"
+   ],
+   "b0": 802,
+   "b1": 804,
+   "section": "finale",
+   "move": "orbit",
+   "trans": "flash",
+   "start": 276.7564,
+   "end": 277.4461
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "detail-10pre-2-jpg"
+   ],
+   "b0": 804,
+   "b1": 808,
+   "section": "finale",
+   "move": "zoomIn",
+   "trans": "flash",
+   "start": 277.4461,
+   "end": 278.8254
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "detail-m6-1-jpg"
+   ],
+   "b0": 808,
+   "b1": 810,
+   "section": "finale",
+   "move": "zoomOut",
+   "trans": "punchIn",
+   "start": 278.8254,
+   "end": 279.515
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "detail-10pre-17-jpg"
+   ],
+   "b0": 810,
+   "b1": 812,
+   "section": "finale",
+   "move": "gimbalR",
+   "trans": "whipLeft",
+   "start": 279.515,
+   "end": 280.2047
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "detail-848-18-jpg"
+   ],
+   "b0": 812,
+   "b1": 816,
+   "section": "finale",
+   "move": "focusIn",
+   "trans": "flash",
+   "start": 280.2047,
+   "end": 281.584
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "panel-848-6-png"
+   ],
+   "b0": 816,
+   "b1": 818,
+   "section": "finale",
+   "move": "focusOut",
+   "trans": "punchIn",
+   "start": 281.584,
+   "end": 282.2737
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "detail-16a-28-jpg"
+   ],
+   "b0": 818,
+   "b1": 820,
+   "section": "finale",
+   "move": "craneUp",
+   "trans": "punchIn",
+   "start": 282.2737,
+   "end": 282.9633
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "detail-10pre-22-jpg"
+   ],
+   "b0": 820,
+   "b1": 824,
+   "section": "finale",
+   "move": "zoomIn",
+   "trans": "whipLeft",
+   "start": 282.9633,
+   "end": 284.3426
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "diagram-16a-6-png"
+   ],
+   "b0": 824,
+   "b1": 826,
+   "section": "finale",
+   "move": "orbit",
+   "trans": "flash",
+   "start": 284.3426,
+   "end": 285.0323
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "bundle-828-11-png"
+   ],
+   "b0": 826,
+   "b1": 828,
+   "section": "finale",
+   "move": "zoomOut",
+   "trans": "punchIn",
+   "start": 285.0323,
+   "end": 285.7219
+  },
+  {
+   "kind": "still",
+   "assets": [
+    "detail-10pre-18-jpg"
+   ],
+   "b0": 828,
+   "b1": 832,
+   "section": "finale",
+   "move": "focusIn",
+   "trans": "wipeDiag",
+   "start": 285.7219,
+   "end": 287.1013
+  },
+  {
+   "kind": "lineup",
+   "assets": [
+    "panel-m4-1-png",
+    "panel-ultralite-mk5-8-png",
+    "panel-828-4-png",
+    "panel-16a-10-png"
+   ],
+   "b0": 832,
+   "b1": 840,
+   "section": "lineup",
+   "move": "gimbalR",
+   "trans": "flash",
+   "start": 287.1013,
+   "end": 289.8599
+  }
+ ],
+ "sections": [
+  {
+   "id": "hook",
+   "series": "all",
+   "label": "THREE SERIES",
+   "sub": "",
+   "start": 0.2047,
+   "end": 11.2392,
+   "drop": false,
+   "top": {
+    "graph": "spectrum",
+    "icons": [
+     [
+      "series",
+      3,
+      "",
+      "SERIES"
+     ],
+     [
+      "units",
+      8,
+      "",
+      "INTERFACES"
+     ],
+     [
+      "dsp",
+      2,
+      "",
+      "DSP ENGINES"
+     ]
+    ]
+   },
+   "ticker": [
+    "M2 \u00b7 M4 \u00b7 M6",
+    "ULTRALITE-mk5 \u00b7 828",
+    "16A \u00b7 848 \u00b7 10pre \u00b7 AVB SWITCH"
+   ],
+   "captions": [
+    {
+     "start": 0.2047,
+     "end": 5.7219,
+     "t": "THREE SERIES",
+     "e": "SERIES"
+    },
+    {
+     "start": 5.7219,
+     "end": 11.2392,
+     "t": "ONE sound",
+     "e": "sound"
+    }
+   ]
+  },
+  {
+   "id": "m",
+   "series": "m",
+   "label": "M-SERIES",
+   "sub": "M2 \u00b7 M4 \u00b7 M6",
+   "start": 11.2392,
+   "end": 55.3771,
+   "drop": false,
+   "top": {
+    "graph": "range",
+    "value": 120,
+    "icons": [
+     [
+      "range",
+      120,
+      "dB",
+      "DYNAMIC RANGE"
+     ],
+     [
+      "latency",
+      2.5,
+      "ms",
+      "ROUND TRIP"
+     ],
+     [
+      "rate",
+      192,
+      "kHz",
+      "MAX RATE"
+     ]
+    ]
+   },
+   "ticker": [
+    "M2 \u00b7 2 IN / 2 OUT",
+    "M4 \u00b7 4 IN / 4 OUT",
+    "M6 \u00b7 6 IN / 4 OUT \u00b7 4 PREAMPS",
+    "\u2212129 dBu EIN",
+    "USB-C"
+   ],
+   "captions": [
+    {
+     "start": 11.2392,
+     "end": 16.7564,
+     "t": "MEET THE M-Series",
+     "e": "M-Series"
+    },
+    {
+     "start": 16.7564,
+     "end": 22.2737,
+     "t": "M2 \u00b7 M4 \u00b7 M6",
+     "e": "M4"
+    },
+    {
+     "start": 22.2737,
+     "end": 27.7909,
+     "t": "ESS SABRE32 Ultra CONVERTERS",
+     "e": "Ultra"
+    },
+    {
+     "start": 27.7909,
+     "end": 33.3081,
+     "t": "120 dB DYNAMIC RANGE",
+     "e": "120 dB"
+    },
+    {
+     "start": 33.3081,
+     "end": 38.8254,
+     "t": "\u2212129 dBu PREAMP noise",
+     "e": "noise"
+    },
+    {
+     "start": 38.8254,
+     "end": 44.3426,
+     "t": "2.5 ms ROUND TRIP",
+     "e": "2.5 ms"
+    },
+    {
+     "start": 44.3426,
+     "end": 49.8599,
+     "t": "M6 \u00b7 4 PREAMPS, 6 IN / 4 OUT",
+     "e": "M6"
+    },
+    {
+     "start": 49.8599,
+     "end": 55.3771,
+     "t": "READY FOR THE field",
+     "e": "field"
+    }
+   ]
+  },
+  {
+   "id": "ul",
+   "series": "ul828",
+   "label": "ULTRALITE-mk5",
+   "sub": "",
+   "start": 55.3771,
+   "end": 77.4461,
+   "drop": true,
+   "top": {
+    "graph": "io",
+    "io": [
+     [
+      "ULTRALITE-mk5",
+      18,
+      22
+     ]
+    ],
+    "icons": [
+     [
+      "io",
+      18,
+      "\u00d722",
+      "I/O"
+     ],
+     [
+      "latency",
+      2.4,
+      "ms",
+      "ROUND TRIP"
+     ],
+     [
+      "pre",
+      2,
+      "",
+      "COMBO PREAMPS"
+     ]
+    ]
+   },
+   "ticker": [
+    "2 FRONT COMBO PREAMPS",
+    "8 LINE IN \u00b7 10 LINE OUT",
+    "OPTICAL \u00b7 S/PDIF \u00b7 MIDI",
+    "USB-C"
+   ],
+   "captions": [
+    {
+     "start": 55.3771,
+     "end": 60.8944,
+     "t": "THE UltraLite-mk5",
+     "e": "UltraLite-mk5"
+    },
+    {
+     "start": 60.8944,
+     "end": 66.4116,
+     "t": "18 IN, 22 OUT",
+     "e": "22"
+    },
+    {
+     "start": 66.4116,
+     "end": 71.9288,
+     "t": "2.4 ms ROUND TRIP",
+     "e": "2.4 ms"
+    },
+    {
+     "start": 71.9288,
+     "end": 77.4461,
+     "t": "HALF-RACK, FULL studio",
+     "e": "studio"
+    }
+   ]
+  },
+  {
+   "id": "828",
+   "series": "ul828",
+   "label": "THE 828",
+   "sub": "",
+   "start": 77.4461,
+   "end": 105.0323,
+   "drop": false,
+   "top": {
+    "graph": "io",
+    "io": [
+     [
+      "ULTRALITE-mk5",
+      18,
+      22
+     ],
+     [
+      "828",
+      28,
+      32
+     ]
+    ],
+    "icons": [
+     [
+      "io",
+      28,
+      "\u00d732",
+      "I/O"
+     ],
+     [
+      "gain",
+      74,
+      "dB",
+      "PREAMP GAIN"
+     ],
+     [
+      "range",
+      125,
+      "dB",
+      "DYNAMIC RANGE"
+     ]
+    ]
+   },
+   "ticker": [
+    "\u2212129 dBu EIN",
+    "TALKBACK",
+    "FOOTSWITCH",
+    "OPTICAL \u00b7 S/PDIF \u00b7 MIDI",
+    "3.9\" DISPLAY"
+   ],
+   "captions": [
+    {
+     "start": 77.4461,
+     "end": 82.9633,
+     "t": "THE 828",
+     "e": "828"
+    },
+    {
+     "start": 82.9633,
+     "end": 88.4806,
+     "t": "28 IN, 32 OUT",
+     "e": "32"
+    },
+    {
+     "start": 88.4806,
+     "end": 93.9978,
+     "t": "74 dB OF PREAMP GAIN",
+     "e": "74 dB"
+    },
+    {
+     "start": 93.9978,
+     "end": 99.515,
+     "t": "125 dB DYNAMIC RANGE",
+     "e": "125 dB"
+    },
+    {
+     "start": 99.515,
+     "end": 105.0323,
+     "t": "3.9-INCH display",
+     "e": "display"
+    }
+   ]
+  },
+  {
+   "id": "cm5",
+   "series": "ul828",
+   "label": "CueMix 5",
+   "sub": "ULTRALITE-mk5 \u00b7 828 DSP",
+   "start": 105.0323,
+   "end": 127.1013,
+   "drop": false,
+   "top": {
+    "graph": "eq",
+    "icons": [
+     [
+      "eq",
+      4,
+      "",
+      "EQ BANDS"
+     ],
+     [
+      "dyn",
+      2,
+      "",
+      "GATE \u00b7 COMP"
+     ],
+     [
+      "fx",
+      1,
+      "",
+      "REVERB"
+     ]
+    ]
+   },
+   "ticker": [
+    "EQ",
+    "GATE",
+    "COMPRESSOR",
+    "REVERB",
+    "LOOPBACK",
+    "iPad CONTROL",
+    "STANDALONE"
+   ],
+   "captions": [
+    {
+     "start": 99.515,
+     "end": 105.0323,
+     "t": "CueMix 5 \u00b7 DSP ON BOARD",
+     "e": "CueMix 5"
+    },
+    {
+     "start": 105.0323,
+     "end": 110.5495,
+     "t": "EQ, GATE, COMPRESSOR, reverb",
+     "e": "reverb"
+    },
+    {
+     "start": 110.5495,
+     "end": 116.0668,
+     "t": "loopback FOR STREAMING",
+     "e": "loopback"
+    },
+    {
+     "start": 116.0668,
+     "end": 121.584,
+     "t": "CONTROL FROM YOUR iPad",
+     "e": "iPad"
+    }
+   ]
+  },
+  {
+   "id": "avb",
+   "series": "avb",
+   "label": "AVB SERIES",
+   "sub": "16A \u00b7 848 \u00b7 10pre",
+   "start": 127.1013,
+   "end": 171.2392,
+   "drop": true,
+   "top": {
+    "graph": "io",
+    "io": [
+     [
+      "16A",
+      32,
+      34
+     ],
+     [
+      "848",
+      28,
+      32
+     ],
+     [
+      "10pre",
+      26,
+      28
+     ]
+    ],
+    "icons": [
+     [
+      "range",
+      125,
+      "dB",
+      "DYNAMIC RANGE"
+     ],
+     [
+      "ch",
+      256,
+      "",
+      "CH TO COMPUTER"
+     ],
+     [
+      "latency",
+      2,
+      "ms",
+      "UNDER \u00b7 ROUND TRIP"
+     ]
+    ]
+   },
+   "ticker": [
+    "THUNDERBOLT 4 \u00b7 USB4",
+    "64-CH MIXER \u00b7 26 AUX",
+    "16A \u00b7 32 \u00d7 34",
+    "848 \u00b7 28 \u00d7 32",
+    "10pre \u00b7 10 PREAMPS"
+   ],
+   "captions": [
+    {
+     "start": 127.1013,
+     "end": 132.6185,
+     "t": "THE AVB Series",
+     "e": "AVB"
+    },
+    {
+     "start": 132.6185,
+     "end": 138.1357,
+     "t": "THUNDERBOLT 4 \u00b7 USB4",
+     "e": "USB4"
+    },
+    {
+     "start": 138.1357,
+     "end": 143.653,
+     "t": "16A \u00b7 16 LINE IN, 16 OUT",
+     "e": "16A"
+    },
+    {
+     "start": 143.653,
+     "end": 149.1702,
+     "t": "DC-coupled OUTPUTS",
+     "e": "coupled"
+    },
+    {
+     "start": 149.1702,
+     "end": 154.6875,
+     "t": "848 \u00b7 THE STUDIO command CENTRE",
+     "e": "command"
+    },
+    {
+     "start": 154.6875,
+     "end": 160.2047,
+     "t": "TALKBACK \u00b7 A / B / C monitors",
+     "e": "monitors"
+    },
+    {
+     "start": 160.2047,
+     "end": 165.7219,
+     "t": "10pre \u00b7 TEN MIC PREAMPS",
+     "e": "10pre"
+    },
+    {
+     "start": 165.7219,
+     "end": 171.2392,
+     "t": "256 CHANNELS TO YOUR computer",
+     "e": "computer"
+    }
+   ]
+  },
+  {
+   "id": "network",
+   "series": "avb",
+   "label": "AVB SWITCH \u00b7 NETWORK",
+   "sub": "",
+   "start": 171.2392,
+   "end": 193.3081,
+   "drop": false,
+   "top": {
+    "graph": "network",
+    "icons": [
+     [
+      "ch",
+      128,
+      "",
+      "CH PER UNIT"
+     ],
+     [
+      "dist",
+      100,
+      "m",
+      "PER CABLE"
+     ],
+     [
+      "latency",
+      2,
+      "ms",
+      "UNDER \u00b7 ROUND TRIP"
+     ]
+    ]
+   },
+   "ticker": [
+    "MILAN CERTIFIED",
+    "802.1AS gPTP",
+    "UP TO 8 UNITS",
+    "128 CH / UNIT",
+    "IEEE 802.1AS CLOCK",
+    "5 AVB + 1 GIGABIT",
+    "CAT-5e / CAT-6"
+   ],
+   "captions": [
+    {
+     "start": 171.2392,
+     "end": 176.7564,
+     "t": "AVB Switch \u00b7 5 PORTS, ONE CLOCK",
+     "e": "Switch"
+    },
+    {
+     "start": 176.7564,
+     "end": 182.2737,
+     "t": "128 CHANNELS OVER ONE cable",
+     "e": "cable"
+    },
+    {
+     "start": 182.2737,
+     "end": 187.7909,
+     "t": "Milan CERTIFIED AVB",
+     "e": "Milan"
+    },
+    {
+     "start": 187.7909,
+     "end": 193.3081,
+     "t": "CAT-6 RUNS UP TO 100 m",
+     "e": "100 m"
+    }
+   ]
+  },
+  {
+   "id": "cmpro",
+   "series": "avb",
+   "label": "CueMix Pro",
+   "sub": "AVB DSP \u00b7 16A \u00b7 848 \u00b7 10pre",
+   "start": 193.3081,
+   "end": 237.4461,
+   "drop": false,
+   "top": {
+    "graph": "comp",
+    "icons": [
+     [
+      "eq",
+      4,
+      "",
+      "EQ BANDS"
+     ],
+     [
+      "mix",
+      64,
+      "",
+      "CH MIXER"
+     ],
+     [
+      "aux",
+      26,
+      "",
+      "AUX BUSES"
+     ]
+    ]
+   },
+   "ticker": [
+    "macOS \u00b7 WINDOWS \u00b7 iPad \u00b7 iPhone",
+    "PATCHBAY",
+    "TALKBACK",
+    "MONITOR GROUPS",
+    "Wi-Fi",
+    "STANDALONE"
+   ],
+   "captions": [
+    {
+     "start": 193.3081,
+     "end": 198.8254,
+     "t": "CueMix Pro \u00b7 AVB DSP",
+     "e": "CueMix Pro"
+    },
+    {
+     "start": 198.8254,
+     "end": 204.3426,
+     "t": "macOS, WINDOWS, iPad, iPhone",
+     "e": "iPad"
+    },
+    {
+     "start": 204.3426,
+     "end": 209.8599,
+     "t": "4-BAND EQ \u00b7 COMP \u00b7 GATE",
+     "e": "4-BAND"
+    },
+    {
+     "start": 209.8599,
+     "end": 215.3771,
+     "t": "reverb ON EVERY MIX",
+     "e": "reverb"
+    },
+    {
+     "start": 215.3771,
+     "end": 220.8944,
+     "t": "patchbay \u00b7 ROUTE ANYTHING",
+     "e": "patchbay"
+    },
+    {
+     "start": 220.8944,
+     "end": 226.4116,
+     "t": "talkback, MONITOR GROUPS",
+     "e": "talkback"
+    },
+    {
+     "start": 226.4116,
+     "end": 231.9288,
+     "t": "Wi-Fi CONTROL",
+     "e": "Wi-Fi"
+    },
+    {
+     "start": 231.9288,
+     "end": 237.4461,
+     "t": "RUNS standalone",
+     "e": "standalone"
+    }
+   ]
+  },
+  {
+   "id": "family1",
+   "series": "all",
+   "label": "THREE SERIES",
+   "sub": "",
+   "start": 237.4461,
+   "end": 242.9633,
+   "drop": false,
+   "top": {
+    "graph": "spectrum",
+    "icons": [
+     [
+      "series",
+      3,
+      "",
+      "SERIES"
+     ],
+     [
+      "units",
+      8,
+      "",
+      "INTERFACES"
+     ],
+     [
+      "dsp",
+      2,
+      "",
+      "DSP ENGINES"
+     ]
+    ]
+   },
+   "ticker": [
+    "M2 \u00b7 M4 \u00b7 M6",
+    "ULTRALITE-mk5 \u00b7 828",
+    "16A \u00b7 848 \u00b7 10pre \u00b7 AVB SWITCH"
+   ],
+   "captions": [
+    {
+     "start": 237.4461,
+     "end": 242.9633,
+     "t": "ONE DESIGN family",
+     "e": "family"
+    }
+   ]
+  },
+  {
+   "id": "deploy",
+   "series": "all",
+   "label": "IN THE FIELD",
+   "sub": "",
+   "start": 242.9633,
+   "end": 265.0323,
+   "drop": false,
+   "top": {
+    "graph": "meters",
+    "icons": [
+     [
+      "series",
+      3,
+      "",
+      "SERIES"
+     ],
+     [
+      "units",
+      8,
+      "",
+      "INTERFACES"
+     ],
+     [
+      "range",
+      125,
+      "dB",
+      "UP TO"
+     ]
+    ]
+   },
+   "ticker": [
+    "FILM SETS",
+    "STUDIOS",
+    "STAGES",
+    "CLASSROOMS",
+    "CREATORS",
+    "POST"
+   ],
+   "captions": [
+    {
+     "start": 242.9633,
+     "end": 248.4806,
+     "t": "HOME studios",
+     "e": "studios"
+    },
+    {
+     "start": 248.4806,
+     "end": 253.9978,
+     "t": "LIVE stages",
+     "e": "stages"
+    },
+    {
+     "start": 253.9978,
+     "end": 259.515,
+     "t": "PODCAST & broadcast",
+     "e": "broadcast"
+    },
+    {
+     "start": 259.515,
+     "end": 265.0323,
+     "t": "POST & SCORING",
+     "e": "SCORING"
+    }
+   ]
+  },
+  {
+   "id": "finale",
+   "series": "all",
+   "label": "EVERY SERIES",
+   "sub": "",
+   "start": 265.0323,
+   "end": 287.1013,
+   "drop": true,
+   "top": {
+    "graph": "spectrum",
+    "icons": [
+     [
+      "series",
+      3,
+      "",
+      "SERIES"
+     ],
+     [
+      "units",
+      8,
+      "",
+      "INTERFACES"
+     ],
+     [
+      "dsp",
+      2,
+      "",
+      "DSP ENGINES"
+     ]
+    ]
+   },
+   "ticker": [
+    "M2 \u00b7 M4 \u00b7 M6",
+    "ULTRALITE-mk5 \u00b7 828",
+    "16A \u00b7 848 \u00b7 10pre \u00b7 AVB SWITCH"
+   ],
+   "captions": [
+    {
+     "start": 265.0323,
+     "end": 270.5495,
+     "t": "M-Series",
+     "e": "M-Series"
+    },
+    {
+     "start": 270.5495,
+     "end": 276.0668,
+     "t": "UltraLite-mk5 \u00b7 828",
+     "e": "828"
+    },
+    {
+     "start": 276.0668,
+     "end": 281.584,
+     "t": "AVB \u00b7 CueMix Pro",
+     "e": "AVB"
+    },
+    {
+     "start": 281.584,
+     "end": 287.1013,
+     "t": "ONE family",
+     "e": "family"
+    }
+   ]
+  },
+  {
+   "id": "lineup",
+   "series": "all",
+   "label": "THE FAMILY",
+   "sub": "",
+   "start": 287.1013,
+   "end": 289.8599,
+   "drop": false,
+   "top": {
+    "graph": "spectrum",
+    "icons": [
+     [
+      "series",
+      3,
+      "",
+      "SERIES"
+     ],
+     [
+      "units",
+      8,
+      "",
+      "INTERFACES"
+     ],
+     [
+      "dsp",
+      2,
+      "",
+      "DSP ENGINES"
+     ]
+    ]
+   },
+   "ticker": [
+    "M2 \u00b7 M4 \u00b7 M6",
+    "ULTRALITE-mk5 \u00b7 828",
+    "16A \u00b7 848 \u00b7 10pre \u00b7 AVB SWITCH"
+   ],
+   "captions": [
+    {
+     "start": 287.1013,
+     "end": 289.8599,
+     "t": "MOTU INTERFACES",
+     "e": "INTERFACES"
+    }
+   ]
+  }
+ ],
+ "outroAt": 289.8599,
+ "sfx": [
+  {
+   "at": 0.2347,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 2.9133,
+   "cue": "gate-snap"
+  },
+  {
+   "at": 5.6719,
+   "cue": "riser-short"
+  },
+  {
+   "at": 5.7519,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 8.4306,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 10.8192,
+   "cue": "riser-short"
+  },
+  {
+   "at": 11.1892,
+   "cue": "chime-lift"
+  },
+  {
+   "at": 11.2692,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 12.568499999999998,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 13.947799999999999,
+   "cue": "air-pass"
+  },
+  {
+   "at": 15.3271,
+   "cue": "riser-short"
+  },
+  {
+   "at": 16.7064,
+   "cue": "gate-snap"
+  },
+  {
+   "at": 16.7864,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 22.2237,
+   "cue": "air-pass"
+  },
+  {
+   "at": 22.303700000000003,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 23.602999999999998,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 24.9823,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 26.3616,
+   "cue": "air-pass"
+  },
+  {
+   "at": 27.7409,
+   "cue": "riser-short"
+  },
+  {
+   "at": 27.8209,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 29.1202,
+   "cue": "air-pass"
+  },
+  {
+   "at": 30.499499999999998,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 31.8788,
+   "cue": "air-pass"
+  },
+  {
+   "at": 33.258100000000006,
+   "cue": "gate-snap"
+  },
+  {
+   "at": 33.338100000000004,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 38.775400000000005,
+   "cue": "gate-snap"
+  },
+  {
+   "at": 38.8554,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 40.154700000000005,
+   "cue": "air-pass"
+  },
+  {
+   "at": 41.534000000000006,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 42.9133,
+   "cue": "gate-snap"
+  },
+  {
+   "at": 44.2926,
+   "cue": "riser-short"
+  },
+  {
+   "at": 44.3726,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 45.6719,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 47.051300000000005,
+   "cue": "air-pass"
+  },
+  {
+   "at": 48.430600000000005,
+   "cue": "air-pass"
+  },
+  {
+   "at": 49.809900000000006,
+   "cue": "gate-snap"
+  },
+  {
+   "at": 49.889900000000004,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 54.9571,
+   "cue": "riser-short"
+  },
+  {
+   "at": 55.3271,
+   "cue": "slide-air"
+  },
+  {
+   "at": 55.3771,
+   "cue": "impact-deep"
+  },
+  {
+   "at": 55.4071,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 56.7064,
+   "cue": "slide-air"
+  },
+  {
+   "at": 57.396100000000004,
+   "cue": "slide-air"
+  },
+  {
+   "at": 58.0857,
+   "cue": "chime-lift"
+  },
+  {
+   "at": 59.465,
+   "cue": "gate-snap"
+  },
+  {
+   "at": 60.154700000000005,
+   "cue": "gate-snap"
+  },
+  {
+   "at": 60.8444,
+   "cue": "chime-lift"
+  },
+  {
+   "at": 60.9244,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 66.36160000000001,
+   "cue": "slide-air"
+  },
+  {
+   "at": 66.44160000000001,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 67.0513,
+   "cue": "chime-lift"
+  },
+  {
+   "at": 67.7409,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 69.1202,
+   "cue": "slide-air"
+  },
+  {
+   "at": 69.8099,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 70.4995,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 71.8788,
+   "cue": "chime-lift"
+  },
+  {
+   "at": 71.9588,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 72.5685,
+   "cue": "slide-air"
+  },
+  {
+   "at": 73.2581,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 74.6375,
+   "cue": "slide-air"
+  },
+  {
+   "at": 75.3271,
+   "cue": "slide-air"
+  },
+  {
+   "at": 76.0168,
+   "cue": "chime-lift"
+  },
+  {
+   "at": 77.0261,
+   "cue": "riser-short"
+  },
+  {
+   "at": 77.3961,
+   "cue": "slide-air"
+  },
+  {
+   "at": 77.4761,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 78.7754,
+   "cue": "gate-snap"
+  },
+  {
+   "at": 80.1547,
+   "cue": "gate-snap"
+  },
+  {
+   "at": 81.534,
+   "cue": "air-pass"
+  },
+  {
+   "at": 82.9133,
+   "cue": "riser-short"
+  },
+  {
+   "at": 82.9933,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 84.29260000000001,
+   "cue": "riser-short"
+  },
+  {
+   "at": 85.67190000000001,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 87.0513,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 88.4306,
+   "cue": "gate-snap"
+  },
+  {
+   "at": 88.5106,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 93.9478,
+   "cue": "air-pass"
+  },
+  {
+   "at": 94.0278,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 95.3271,
+   "cue": "gate-snap"
+  },
+  {
+   "at": 96.7064,
+   "cue": "air-pass"
+  },
+  {
+   "at": 98.0857,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 99.465,
+   "cue": "riser-short"
+  },
+  {
+   "at": 99.545,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 99.545,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 100.84440000000001,
+   "cue": "riser-short"
+  },
+  {
+   "at": 102.22370000000001,
+   "cue": "air-pass"
+  },
+  {
+   "at": 103.60300000000001,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 104.6123,
+   "cue": "riser-short"
+  },
+  {
+   "at": 104.98230000000001,
+   "cue": "riser-short"
+  },
+  {
+   "at": 105.06230000000001,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 106.36160000000001,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 107.7409,
+   "cue": "air-pass"
+  },
+  {
+   "at": 109.1202,
+   "cue": "air-pass"
+  },
+  {
+   "at": 110.4995,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 110.5795,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 111.8788,
+   "cue": "air-pass"
+  },
+  {
+   "at": 113.2581,
+   "cue": "air-pass"
+  },
+  {
+   "at": 114.6375,
+   "cue": "riser-short"
+  },
+  {
+   "at": 116.0168,
+   "cue": "air-pass"
+  },
+  {
+   "at": 116.0968,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 117.3961,
+   "cue": "riser-short"
+  },
+  {
+   "at": 118.7754,
+   "cue": "air-pass"
+  },
+  {
+   "at": 120.1547,
+   "cue": "riser-short"
+  },
+  {
+   "at": 121.534,
+   "cue": "riser-short"
+  },
+  {
+   "at": 122.9133,
+   "cue": "gate-snap"
+  },
+  {
+   "at": 124.29260000000001,
+   "cue": "riser-short"
+  },
+  {
+   "at": 125.67190000000001,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 126.6813,
+   "cue": "riser-short"
+  },
+  {
+   "at": 127.0513,
+   "cue": "gate-snap"
+  },
+  {
+   "at": 127.1013,
+   "cue": "impact-deep"
+  },
+  {
+   "at": 127.1313,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 128.4306,
+   "cue": "gate-snap"
+  },
+  {
+   "at": 129.12019999999998,
+   "cue": "chime-lift"
+  },
+  {
+   "at": 129.8099,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 131.1892,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 131.87879999999998,
+   "cue": "slide-air"
+  },
+  {
+   "at": 132.5685,
+   "cue": "chime-lift"
+  },
+  {
+   "at": 132.6485,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 138.0857,
+   "cue": "slide-air"
+  },
+  {
+   "at": 138.16570000000002,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 138.7754,
+   "cue": "slide-air"
+  },
+  {
+   "at": 139.46499999999997,
+   "cue": "slide-air"
+  },
+  {
+   "at": 140.84439999999998,
+   "cue": "slide-air"
+  },
+  {
+   "at": 141.534,
+   "cue": "chime-lift"
+  },
+  {
+   "at": 142.22369999999998,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 143.60299999999998,
+   "cue": "gate-snap"
+  },
+  {
+   "at": 143.683,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 144.2926,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 144.98229999999998,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 146.36159999999998,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 147.0513,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 147.74089999999998,
+   "cue": "slide-air"
+  },
+  {
+   "at": 149.12019999999998,
+   "cue": "chime-lift"
+  },
+  {
+   "at": 149.2002,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 154.6375,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 154.7175,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 155.3271,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 156.7064,
+   "cue": "gate-snap"
+  },
+  {
+   "at": 157.3961,
+   "cue": "gate-snap"
+  },
+  {
+   "at": 158.0857,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 159.46499999999997,
+   "cue": "chime-lift"
+  },
+  {
+   "at": 160.1547,
+   "cue": "chime-lift"
+  },
+  {
+   "at": 160.2347,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 165.6719,
+   "cue": "chime-lift"
+  },
+  {
+   "at": 165.7519,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 167.0513,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 167.74089999999998,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 168.4306,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 169.8099,
+   "cue": "slide-air"
+  },
+  {
+   "at": 170.49949999999998,
+   "cue": "gate-snap"
+  },
+  {
+   "at": 170.81920000000002,
+   "cue": "riser-short"
+  },
+  {
+   "at": 171.1892,
+   "cue": "chime-lift"
+  },
+  {
+   "at": 171.2692,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 172.5685,
+   "cue": "gate-snap"
+  },
+  {
+   "at": 173.9478,
+   "cue": "air-pass"
+  },
+  {
+   "at": 175.3271,
+   "cue": "gate-snap"
+  },
+  {
+   "at": 176.7064,
+   "cue": "gate-snap"
+  },
+  {
+   "at": 176.78640000000001,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 182.22369999999998,
+   "cue": "air-pass"
+  },
+  {
+   "at": 182.3037,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 183.60299999999998,
+   "cue": "air-pass"
+  },
+  {
+   "at": 184.98229999999998,
+   "cue": "air-pass"
+  },
+  {
+   "at": 186.36159999999998,
+   "cue": "air-pass"
+  },
+  {
+   "at": 187.74089999999998,
+   "cue": "gate-snap"
+  },
+  {
+   "at": 187.8209,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 192.8881,
+   "cue": "riser-short"
+  },
+  {
+   "at": 193.25809999999998,
+   "cue": "gate-snap"
+  },
+  {
+   "at": 193.3381,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 198.7754,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 198.8554,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 200.1547,
+   "cue": "riser-short"
+  },
+  {
+   "at": 201.534,
+   "cue": "gate-snap"
+  },
+  {
+   "at": 202.9133,
+   "cue": "riser-short"
+  },
+  {
+   "at": 204.2926,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 204.3726,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 205.6719,
+   "cue": "air-pass"
+  },
+  {
+   "at": 207.0513,
+   "cue": "air-pass"
+  },
+  {
+   "at": 208.4306,
+   "cue": "riser-short"
+  },
+  {
+   "at": 209.8099,
+   "cue": "gate-snap"
+  },
+  {
+   "at": 209.8899,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 211.1892,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 212.5685,
+   "cue": "gate-snap"
+  },
+  {
+   "at": 213.9478,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 215.3271,
+   "cue": "air-pass"
+  },
+  {
+   "at": 215.4071,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 216.7064,
+   "cue": "gate-snap"
+  },
+  {
+   "at": 218.0857,
+   "cue": "air-pass"
+  },
+  {
+   "at": 219.46499999999997,
+   "cue": "air-pass"
+  },
+  {
+   "at": 220.84439999999998,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 220.9244,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 222.22369999999998,
+   "cue": "air-pass"
+  },
+  {
+   "at": 223.60299999999998,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 224.98229999999998,
+   "cue": "gate-snap"
+  },
+  {
+   "at": 226.36159999999998,
+   "cue": "riser-short"
+  },
+  {
+   "at": 226.4416,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 227.74089999999998,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 229.12019999999998,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 230.49949999999998,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 231.87879999999998,
+   "cue": "air-pass"
+  },
+  {
+   "at": 231.9588,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 233.25809999999998,
+   "cue": "gate-snap"
+  },
+  {
+   "at": 234.6375,
+   "cue": "air-pass"
+  },
+  {
+   "at": 236.0168,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 237.0261,
+   "cue": "riser-short"
+  },
+  {
+   "at": 237.3961,
+   "cue": "slide-air"
+  },
+  {
+   "at": 237.4761,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 240.1547,
+   "cue": "riser-short"
+  },
+  {
+   "at": 242.54330000000002,
+   "cue": "riser-short"
+  },
+  {
+   "at": 242.9133,
+   "cue": "riser-short"
+  },
+  {
+   "at": 242.9933,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 244.2926,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 245.6719,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 247.0513,
+   "cue": "air-pass"
+  },
+  {
+   "at": 248.4306,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 248.5106,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 249.8099,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 251.1892,
+   "cue": "air-pass"
+  },
+  {
+   "at": 252.5685,
+   "cue": "gate-snap"
+  },
+  {
+   "at": 253.9478,
+   "cue": "air-pass"
+  },
+  {
+   "at": 254.0278,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 255.3271,
+   "cue": "air-pass"
+  },
+  {
+   "at": 256.7064,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 258.0857,
+   "cue": "air-pass"
+  },
+  {
+   "at": 259.465,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 259.54499999999996,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 260.8444,
+   "cue": "air-pass"
+  },
+  {
+   "at": 262.2237,
+   "cue": "riser-short"
+  },
+  {
+   "at": 263.603,
+   "cue": "air-pass"
+  },
+  {
+   "at": 264.6123,
+   "cue": "riser-short"
+  },
+  {
+   "at": 264.9823,
+   "cue": "gate-snap"
+  },
+  {
+   "at": 265.0323,
+   "cue": "impact-deep"
+  },
+  {
+   "at": 265.0623,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 265.6719,
+   "cue": "chime-lift"
+  },
+  {
+   "at": 266.3616,
+   "cue": "slide-air"
+  },
+  {
+   "at": 267.7409,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 268.43059999999997,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 269.1202,
+   "cue": "gate-snap"
+  },
+  {
+   "at": 270.4995,
+   "cue": "chime-lift"
+  },
+  {
+   "at": 270.5795,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 271.18919999999997,
+   "cue": "slide-air"
+  },
+  {
+   "at": 271.8788,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 273.2581,
+   "cue": "gate-snap"
+  },
+  {
+   "at": 273.9478,
+   "cue": "slide-air"
+  },
+  {
+   "at": 274.6375,
+   "cue": "slide-air"
+  },
+  {
+   "at": 276.0168,
+   "cue": "gate-snap"
+  },
+  {
+   "at": 276.0968,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 276.7064,
+   "cue": "chime-lift"
+  },
+  {
+   "at": 277.3961,
+   "cue": "chime-lift"
+  },
+  {
+   "at": 278.7754,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 279.465,
+   "cue": "slide-air"
+  },
+  {
+   "at": 280.1547,
+   "cue": "chime-lift"
+  },
+  {
+   "at": 281.534,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 281.614,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 282.2237,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 282.9133,
+   "cue": "slide-air"
+  },
+  {
+   "at": 284.2926,
+   "cue": "chime-lift"
+  },
+  {
+   "at": 284.9823,
+   "cue": "impact-soft"
+  },
+  {
+   "at": 285.6719,
+   "cue": "gate-snap"
+  },
+  {
+   "at": 286.68129999999996,
+   "cue": "riser-short"
+  },
+  {
+   "at": 287.05129999999997,
+   "cue": "chime-lift"
+  },
+  {
+   "at": 287.13129999999995,
+   "cue": "tick-glass"
+  },
+  {
+   "at": 289.7099,
+   "cue": "outro-bloom"
+  }
+ ],
+ "audio": {
+  "blocks": [
+   [
+    0,
+    32
+   ],
+   [
+    32,
+    96
+   ],
+   [
+    96,
+    160
+   ],
+   [
+    160,
+    224
+   ],
+   [
+    224,
+    240
+   ],
+   [
+    240,
+    304
+   ],
+   [
+    304,
+    368
+   ],
+   [
+    368,
+    432
+   ],
+   [
+    432,
+    496
+   ],
+   [
+    240,
+    304
+   ],
+   [
+    304,
+    368
+   ],
+   [
+    160,
+    224
+   ],
+   [
+    224,
+    240
+   ],
+   [
+    32,
+    96
+   ],
+   [
+    496,
+    560
+   ],
+   [
+    560,
+    603
+   ]
+  ],
+  "startAt": 0.0,
+  "duration": 300.0,
+  "srcOffset": 0.2047,
+  "leadIn": true
+ }
+}
