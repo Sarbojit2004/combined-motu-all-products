@@ -1,0 +1,16 @@
+node_modules/
+out/**/chunks/
+out/*-chunks/
+out/*-silent.mp4
+out/*-master.mp4
+*.log
+/public/img/
+/public/blur/
+/public/broll/*-amb.mp4
+audio-src/*.wav
+/public/soft/
+/public/amb/
+/public/audio/*.wav
+/out/
+/public/broll/
+audio-src/*.mp4
