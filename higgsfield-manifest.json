@@ -1,12 +1,46 @@
 [
-  {"url": "https://d8j0ntlcm91z4.cloudfront.net/user_38HrvKOOtPO8XbBYIfwrYWYySAd/hf_20260923_124124_8e175daf-caef-4194-9c23-f3e5227e06c9.mp4", "dest": "broll/clips/b01-control-room-stack.mp4"},
-  {"url": "https://d8j0ntlcm91z4.cloudfront.net/user_38HrvKOOtPO8XbBYIfwrYWYySAd/hf_20260923_124123_a13ce28f-0f22-439f-ba86-b5f028adbaf2.mp4", "dest": "broll/clips/b02-podcast-table.mp4"},
-  {"url": "https://d8j0ntlcm91z4.cloudfront.net/user_38HrvKOOtPO8XbBYIfwrYWYySAd/hf_20260923_124124_f0b4afed-d319-4ba2-9cf9-e81dffb42ae4.mp4", "dest": "broll/clips/b03-drum-room.mp4"},
-  {"url": "https://d8j0ntlcm91z4.cloudfront.net/user_38HrvKOOtPO8XbBYIfwrYWYySAd/hf_20260923_124122_91a672b0-374a-4458-a8f9-18ef77dca46b.mp4", "dest": "broll/clips/b04-guitar-rig.mp4"},
-  {"url": "https://d8j0ntlcm91z4.cloudfront.net/user_38HrvKOOtPO8XbBYIfwrYWYySAd/hf_20260923_124122_6857e3da-1577-4277-804e-b0fac40ee03c.mp4", "dest": "broll/clips/b05-laptop-rig.mp4"},
-  {"url": "https://d8j0ntlcm91z4.cloudfront.net/user_38HrvKOOtPO8XbBYIfwrYWYySAd/hf_20260923_124123_e4248025-9703-462c-a6bf-4d99b95ff1fe.mp4", "dest": "broll/clips/b06-producer-desk.mp4"},
-  {"url": "https://d8j0ntlcm91z4.cloudfront.net/user_38HrvKOOtPO8XbBYIfwrYWYySAd/hf_20260923_124123_c9987ff6-b7d0-4fda-99f2-f2357e4b222b.mp4", "dest": "broll/clips/b07-live-duo.mp4"},
-  {"url": "https://d8j0ntlcm91z4.cloudfront.net/user_38HrvKOOtPO8XbBYIfwrYWYySAd/hf_20260923_124123_ef404192-7885-4f79-be5b-eb1bcb2bab3f.mp4", "dest": "broll/clips/b08-couch-writing.mp4"},
-  {"url": "https://d8j0ntlcm91z4.cloudfront.net/user_38HrvKOOtPO8XbBYIfwrYWYySAd/hf_20260923_124124_2cf8587d-1855-4d23-85a3-6f32cb75bed1.mp4", "dest": "broll/clips/b09-two-desktops.mp4"},
-  {"url": "https://d8j0ntlcm91z4.cloudfront.net/user_38HrvKOOtPO8XbBYIfwrYWYySAd/hf_20260923_124123_46793f5a-cdb4-4ec0-85bf-f09440a2ef20.mp4", "dest": "broll/clips/b10-network-desk.mp4"}
+ {
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38HrvKOOtPO8XbBYIfwrYWYySAd/hf_20260923_124124_8e175daf-caef-4194-9c23-f3e5227e06c9.mp4",
+  "dest": "broll/clips/b01-control-room-stack.mp4"
+ },
+ {
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38HrvKOOtPO8XbBYIfwrYWYySAd/hf_20260923_124123_a13ce28f-0f22-439f-ba86-b5f028adbaf2.mp4",
+  "dest": "broll/clips/b02-podcast-table.mp4"
+ },
+ {
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38HrvKOOtPO8XbBYIfwrYWYySAd/hf_20260923_124124_f0b4afed-d319-4ba2-9cf9-e81dffb42ae4.mp4",
+  "dest": "broll/clips/b03-drum-room.mp4"
+ },
+ {
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38HrvKOOtPO8XbBYIfwrYWYySAd/hf_20260923_124122_91a672b0-374a-4458-a8f9-18ef77dca46b.mp4",
+  "dest": "broll/clips/b04-guitar-rig.mp4"
+ },
+ {
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38HrvKOOtPO8XbBYIfwrYWYySAd/hf_20260923_124122_6857e3da-1577-4277-804e-b0fac40ee03c.mp4",
+  "dest": "broll/clips/b05-laptop-rig.mp4"
+ },
+ {
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38HrvKOOtPO8XbBYIfwrYWYySAd/hf_20260923_124123_e4248025-9703-462c-a6bf-4d99b95ff1fe.mp4",
+  "dest": "broll/clips/b06-producer-desk.mp4"
+ },
+ {
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38HrvKOOtPO8XbBYIfwrYWYySAd/hf_20260923_124123_c9987ff6-b7d0-4fda-99f2-f2357e4b222b.mp4",
+  "dest": "broll/clips/b07-live-duo.mp4"
+ },
+ {
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38HrvKOOtPO8XbBYIfwrYWYySAd/hf_20260923_124123_ef404192-7885-4f79-be5b-eb1bcb2bab3f.mp4",
+  "dest": "broll/clips/b08-couch-writing.mp4"
+ },
+ {
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38HrvKOOtPO8XbBYIfwrYWYySAd/hf_20260923_124124_2cf8587d-1855-4d23-85a3-6f32cb75bed1.mp4",
+  "dest": "broll/clips/b09-two-desktops.mp4"
+ },
+ {
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38HrvKOOtPO8XbBYIfwrYWYySAd/hf_20260923_124123_46793f5a-cdb4-4ec0-85bf-f09440a2ef20.mp4",
+  "dest": "broll/clips/b10-network-desk.mp4"
+ },
+ {
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38HrvKOOtPO8XbBYIfwrYWYySAd/hf_20260923_130100_bf60f2c9-bc22-47a7-9e17-3c071b419049.mp4",
+  "dest": "broll/deploy/d01-radio-onair.mp4"
+ }
 ]
